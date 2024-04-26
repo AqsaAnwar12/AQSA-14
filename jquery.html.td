@@ -14,7 +14,6 @@
         <button id="addbutton">Add to do</button>
         <ul id="todos">
             <td>Peach</td>
-            <td>Grapes</td>
             <td>Mango</td>
             <td>Apple</td>
         </ul>
